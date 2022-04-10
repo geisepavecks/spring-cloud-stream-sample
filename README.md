@@ -9,7 +9,9 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=henriquels25_spring-cloud-stream-sample&metric=sqale_index)](https://sonarcloud.io/dashboard?id=henriquels25_spring-cloud-stream-sample)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=henriquels25_spring-cloud-stream-sample&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=henriquels25_spring-cloud-stream-sample)
 
-Spring Cloud Stream Sample
+Testing API with Spring Cloud Stream using Apache Kafka
 ===============
 Application to demonstrate how to write Spring Boot Applications using [Spring Cloud Stream](https://spring.io/projects/spring-cloud-stream), with the
 functional programming model.
+
+👉 The focus of the tests is quality assurance of the application which implements a hexagonal architecture for control of business rules.
